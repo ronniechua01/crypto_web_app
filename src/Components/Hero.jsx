@@ -30,7 +30,7 @@ const Hero = () => {
         <p className="md:text-2xl sm:text-l text-xl font-bold text-gray-500 flex justify-center items-center pt-2 px-2">
           Monitor your data analytics to increase revenue for BTC, ETH, & SOL
         </p>
-        <button className="bg-[#39ccb8] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-[#0F0F0F]">Get Started</button>
+        <button className="bg-[#39ccb8] w-[200px] rounded-md font-semibold my-6 mx-auto py-3 text-[#0F0F0F]">Get Started</button>
       </div>
     </div>
   );
